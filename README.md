@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoKorpuzCoelho
+- 👋 Hello, my name is Bruno Coelho, I'm 27 years old, and I love programming
 - 👀 I’m interested in programming area, (full stack, IA)
 - 🌱 I’m currently learning Python and machine learning
 - 💞️ I'm looking to collaborate in creating a more technological and better world for everyone
